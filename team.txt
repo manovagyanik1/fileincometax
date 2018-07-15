@@ -1,0 +1,100 @@
+                  _____ _______ 
+                 |_   _|__   __|
+  _ __ ___  _   _  | |    | |   
+ | '_ ` _ \| | | | | |    | |   
+ | | | | | | |_| |_| |_   | |   
+ |_| |_| |_|\__, |_____|  |_|   
+          | |__/ |              
+  _ __ ___| |___/  _ _ __ _ __  
+ | '__/ _ \ __| | | | '__| '_ \ 
+ | | |  __/ |_| |_| | |  | | | |
+ |_|  \___|\__|\__,_|_|  |_| |_|
+                                
+                                                                           
+
+
+The team.txt file explains the real team, technology, and graphic assets behind this site. 
+
+humans @ work here
+
+--------------------------------------
+
+This website is designed, implemented and maintained by myITreturn team and friends.
+
+Saakar S Yadav
+Director
+
+Vikas Bansal
+Technology
+
+Amol Mishra
+Tax and Compliance
+
+Anshal Thakur
+Process
+
+Dileep Singh
+Process
+
+Mustufa Kothari
+Technology
+
+Deepak Patel
+Tax and Compliance
+
+Bansi
+Tax and Compliance
+
+Sandip Gadakh
+Tax and Compliance
+
+Saumil Gandhi
+Web Design
+
+Hirachand Jain
+Design
+
+Prashant Goyal 
+Development 
+
+Mandar Wairkar
+Development
+
+Sachin Chavan
+Development
+
+Shahnawaz Shaikh
+Web Design
+
+--------------------------------------
+
+SPECIAL THANKS
+
+Veda Yadav
+Vishrut Shrivastava
+Vidyut Shah
+Rahul Tewari
+Anubhav Tewari
+... and family members of all team members - who have supported us.
+
+
+--------------------------------------
+
+
+TECHNOLOGY
+
+Google Material Design
+https://design.google.com/
+
+LESS - CSS pre-processor
+lesscss.org
+
+PHP
+http://php.net/
+
+Github - Code collaboration
+github.com
+
+
+--------------------------------------
+Copyright 2016 Skorydov Systems Private Limited. All rights reserved.

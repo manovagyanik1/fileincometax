@@ -1,0 +1,1 @@
+$(window).load(function(){!$(".login-content")[0]});
